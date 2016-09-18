@@ -4,6 +4,12 @@ h1 {
 h2 {
 	color: #ffd700;
 }
+img {
+	height: 203px;
+	width: 152px;
+	border: 1px solid black;
+	border-radius: 20px;
+}
 .board {
 	height: 50%;
 	width: 50%;
@@ -14,7 +20,7 @@ h2 {
 	width: 150px;
 	background-color: rgb(255,255,0);
 	border: 1px solid black;
-	border-radius: 10px;
+	border-radius: 20px;
 	display: inline-block;
 	float: left;
 	margin: 8%;
